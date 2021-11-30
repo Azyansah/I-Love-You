@@ -9,5 +9,5 @@
 Fun fact = sc ini dibuat sewaktu gw tiba tiba dianggap teman
   </i></p>
 <br>
-  <a href="https://azyansah.github.io/i-love-you"><strong>Click Here To See Demo
+  <a href="https://azyansah.github.io/I-Love-You/"><strong>Click Here To See Demo
 </div>
