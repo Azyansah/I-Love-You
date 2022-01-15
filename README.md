@@ -4,10 +4,6 @@
   <br><br>
   <a href="//github.com/Azyansah"><img src="https://img.shields.io/badge/Author-Zyy.-blue.svg?style=for-the-badge&logo=github?logoWidth=10"/><a/>
   <br><br>
-  <p><b>About</b><p>
-  <p><i>
-Fun fact = sc ini dibuat sewaktu gw tiba tiba dianggap teman
-  </i></p>
 <br>
-  <a href="https://azyansah.github.io/I-Love-You/"><strong>Click Here To See Demo
+  <a href="https://ily.azyansah.tech/"><strong>Click Here To See Demo
 </div>
